@@ -1,0 +1,2 @@
+﻿item_id,item_no,article_no,location_no,location_type,closed,stock_units,confidence_factor,order_frequency_days,lead_time_days,order_period,forecast_order_period
+1353,P-135948-RI-50,P-135948-RI-50,S-US-02,store,0,125.0000,95.0000,7,1,8,306.5337

@@ -1,0 +1,24 @@
+##
+
+Definitons of:
+    -   Confidence factor
+    -   Service factor
+    -   Service level
+
+Tenging í ABC level og saftey stock calculation
+
+Standard útgáfan af Service_Level skoðar bara hvort það sé til stock in the past og notar eihverja lógík til þess að reikna út service level.
+Það er engin concrete skilgreining á service level.
+
+Service level hversu vel ertu að service-a þínum kúnna.
+Saftey stock er hversu mikið þarf til þess að (t.d 95% ) 
+
+Finna samhengis milli service level og confidence factors til að byrja með.
+
+Tengi tafla milli Confidence Factor og Service Level.
+
+Búa til demo gögn út frá Demo.
+    - Sækja Item, Store, Stock_today, forecast, confidence factor, og eitthvarð úr dbo.forecast.
+    - Út frá Service Level standard procedure-num. Reikna út service_level_factor frá mismunandi confidence factor.
+        - Byrja bara skoða 1 order period fram í tímann.
+
